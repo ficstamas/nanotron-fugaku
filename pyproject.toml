@@ -9,12 +9,12 @@ authors = [
     {name = "Thomas Wolf", email="thomas@huggingface.co"},
 ]
 readme = "README.md"
-requires-python = "~=3.10"
+requires-python = "~=3.9"
 classifiers = [
     "Topic :: Software Development"
 ]
 dependencies = [
-    "torch>=1.13.1",
+    "torch>=1.13",
     "pyyaml",
     "numpy",
     "packaging",
